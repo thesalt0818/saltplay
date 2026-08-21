@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": "slotclicker",
+      "title": "Toy Slots",
+      "description": "방치형 슬롯머신 클리커",
+      "url": "https://thesalt0818.github.io/slotclicker/",
+      "version": "20260819",
+      "orientation": "portrait",
+      "thumbnail": "gameicon/toyslot_icon",
+      "accent": "#E8A33D"
+    },
+    {
+      "id": "elpissurvival",
+      "title": "Elpis Survival",
+      "description": "생존 액션 게임",
+      "url": "https://thesalt0818.github.io/elpissurvival/",
+      "version": "20260611",
+      "orientation": "portrait",
+      "thumbnail": "gameicon/elpis_icon",
+      "accent": "#5B7FDE"
+    },
+    {
+      "id": "candycan",
+      "title": "Candy Can",
+      "description": "머지 수박 게임",
+      "url": "https://thesalt0225.github.io/candycanWtest/",
+      "version": "20260715",
+      "orientation": "portrait",
+      "thumbnail": "gameicon/candycan_icon",
+      "accent": "#5B7FDE"
+    },
+    {
+      "id": "catguardians",
+      "title": "Cat Guardians",
+      "description": "방치형 시뮬레이션 게임",
+      "url": "https://thesalt0818.github.io/catguardians/",
+      "version": "20260821",
+      "orientation": "portrait",
+      "thumbnail": "gameicon/catguardians_icon",
+      "accent": "#5B7FDE"
+    }
+  ]
+}
