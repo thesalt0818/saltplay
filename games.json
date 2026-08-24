@@ -8,7 +8,8 @@
       "version": "20260819",
       "orientation": "portrait",
       "thumbnail": "gameicon/toyslot_icon",
-      "accent": "#E8A33D"
+      "accent": "#E8A33D",
+      "tags": ["hot", "idle", "casual"]
     },
     {
       "id": "elpissurvival",
@@ -18,7 +19,8 @@
       "version": "20260611",
       "orientation": "portrait",
       "thumbnail": "gameicon/elpis_icon",
-      "accent": "#5B7FDE"
+      "accent": "#5B7FDE",
+      "tags": ["hot", "action"]
     },
     {
       "id": "candycan",
@@ -28,7 +30,8 @@
       "version": "20260715",
       "orientation": "portrait",
       "thumbnail": "gameicon/candycan_icon",
-      "accent": "#5B7FDE"
+      "accent": "#5B7FDE",
+      "tags": ["casual", "puzzle"]
     },
     {
       "id": "catguardians",
@@ -38,7 +41,8 @@
       "version": "20260821",
       "orientation": "portrait",
       "thumbnail": "gameicon/catguardians_icon",
-      "accent": "#5B7FDE"
+      "accent": "#5B7FDE",
+      "tags": ["idle", "simulation", "casual"]
     }
   ]
 }
