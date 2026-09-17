@@ -1,6 +1,17 @@
 {
   "games": [
     {
+      "id": "apexholdem",
+      "title": "Apex Holdem",
+      "description": "texas Holdem game",
+      "url": "https://thesalt0818.github.io/apexholdem",
+      "version": "20260917",
+      "orientation": "landscape",
+      "thumbnail": "https://thesalt0818.github.io/saltplay-web/gameicon/apex_icon_long.png",
+      "accent": "#FF2D5C",
+      "tags": ["hot", "puzzle", "casual"]
+    },
+    {
       "id": "chinesemerge",
       "title": "Chinese Merge",
       "description": "중식 요리 2048 머지 퍼즐",
